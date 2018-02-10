@@ -1,5 +1,5 @@
 # JavaInputOutput
 
 ###Version 2 comments
-
-# AdventureGame2
+this is starting of a new section using a Random Access File
+## AdventureGame2
